@@ -27,7 +27,7 @@ msgstr "Mettre en veille"
 
 #: applet.js:149
 msgid "Hibernate"
-msgstr "Mettre en hybernation"
+msgstr "Mettre en hibernation"
 
 #: applet.js:152
 msgid "Hybrid sleep"
@@ -94,7 +94,7 @@ msgstr "La commande pour mettre en veille "
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->hibernate_icon->description
 msgid "The hibernate icon "
-msgstr "L'icône d'hybernation "
+msgstr "L'icône d'hibernation "
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->log_out_icon->description
@@ -104,7 +104,7 @@ msgstr "L'icône de déconnexion "
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->hibernate_cmd->description
 msgid "The hibernate command "
-msgstr "La commande pour mettre en hybernation "
+msgstr "La commande pour mettre en hibernation "
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->log_out->description
 msgid "Add log out to the menu"
@@ -147,7 +147,7 @@ msgstr "Mise en veille : met le système en veille"
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->hibernate_label->description
 msgid "Hibernate: hibernate the system"
-msgstr "Mettre en hybernation : met le système en hybernation"
+msgstr "Mettre en hibernation : met le système en hibernation"
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->log_out_cmd->description
@@ -165,7 +165,7 @@ msgstr "L'icône d'extinction "
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-schema.json->hibernate->description
 msgid "Add hibernate to the menu"
-msgstr "Ajouter l'hybernation au menu"
+msgstr "Ajouter l'hibernation au menu"
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->screen_lock_cmd->description
@@ -208,7 +208,7 @@ msgstr "Éteindre : arrêter et éteindre le système"
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->hybrid_sleep_label->description
 msgid "Hybrid sleep: hibernate and suspend the system"
-msgstr "Mettre en veille hybride : met le système en veille et en hybernation"
+msgstr "Mettre en veille hybride : met le système en veille et en hibernation"
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->screen_lock_label->description
